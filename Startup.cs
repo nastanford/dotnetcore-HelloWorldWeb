@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.AspNetCore.StaticFiles;
 
 namespace dotnetcore_HelloWorldWeb
 {
@@ -25,9 +26,12 @@ namespace dotnetcore_HelloWorldWeb
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseFileServer(enableDirectoryBrowsing:env.IsDevelopment());
+
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World!");
+                await context.Response.WriteAsync($"Hello {env.EnvironmentName}!");
+                
             });
         }
     }

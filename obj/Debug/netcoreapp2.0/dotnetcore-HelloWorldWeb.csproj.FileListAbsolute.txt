@@ -1,0 +1,10 @@
+D:\DotNetApps\dotnetcore-HelloWorldWeb\bin\Debug\netcoreapp2.0\dotnetcore-HelloWorldWeb.deps.json
+D:\DotNetApps\dotnetcore-HelloWorldWeb\bin\Debug\netcoreapp2.0\dotnetcore-HelloWorldWeb.runtimeconfig.json
+D:\DotNetApps\dotnetcore-HelloWorldWeb\bin\Debug\netcoreapp2.0\dotnetcore-HelloWorldWeb.runtimeconfig.dev.json
+D:\DotNetApps\dotnetcore-HelloWorldWeb\bin\Debug\netcoreapp2.0\dotnetcore-HelloWorldWeb.dll
+D:\DotNetApps\dotnetcore-HelloWorldWeb\bin\Debug\netcoreapp2.0\dotnetcore-HelloWorldWeb.pdb
+D:\DotNetApps\dotnetcore-HelloWorldWeb\obj\Debug\netcoreapp2.0\dotnetcore-HelloWorldWeb.csproj.CoreCompileInputs.cache
+D:\DotNetApps\dotnetcore-HelloWorldWeb\obj\Debug\netcoreapp2.0\dotnetcore-HelloWorldWeb.AssemblyInfoInputs.cache
+D:\DotNetApps\dotnetcore-HelloWorldWeb\obj\Debug\netcoreapp2.0\dotnetcore-HelloWorldWeb.AssemblyInfo.cs
+D:\DotNetApps\dotnetcore-HelloWorldWeb\obj\Debug\netcoreapp2.0\dotnetcore-HelloWorldWeb.dll
+D:\DotNetApps\dotnetcore-HelloWorldWeb\obj\Debug\netcoreapp2.0\dotnetcore-HelloWorldWeb.pdb
