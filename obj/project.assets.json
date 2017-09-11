@@ -12539,24 +12539,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dotnet\\dotnetcore-HelloWorldWeb\\dotnetcore-HelloWorldWeb.csproj",
+      "projectUniqueName": "d:\\DotNetApps\\dotnetcore-HelloWorldWeb\\dotnetcore-HelloWorldWeb.csproj",
       "projectName": "dotnetcore-HelloWorldWeb",
-      "projectPath": "C:\\dotnet\\dotnetcore-HelloWorldWeb\\dotnetcore-HelloWorldWeb.csproj",
+      "projectPath": "d:\\DotNetApps\\dotnetcore-HelloWorldWeb\\dotnetcore-HelloWorldWeb.csproj",
       "packagesPath": "C:\\Users\\Natha\\.nuget\\packages\\",
-      "outputPath": "C:\\dotnet\\dotnetcore-HelloWorldWeb\\obj\\",
+      "outputPath": "d:\\DotNetApps\\dotnetcore-HelloWorldWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Natha\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
